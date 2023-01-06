@@ -1,3 +1,5 @@
+![PNG](https://user-images.githubusercontent.com/2831291/210919884-41eef594-d904-4a1c-8893-5100106b6685.jpg)
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ALARP%20Solutions&fontColor=FFFFFF&fontAlign=65&fontAlignY=40&color=0:42BDFF,40:0071BC,90:000064&animation=twinkling)
 
 ALARP Solutions is a boutique management consultancy that specialises in providing governance, risk management and systems safety solutions. ALARP Solutions is committed to supporting private and government organisations seeking to implement credible and robust risk and safety management frameworks, policies and practices that improve business outcomes, whilst also complying with legislation and adopted standards.
